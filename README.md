@@ -1,2 +1,2 @@
-# C-
+# C++
 VS CODE C++ FOLE
