@@ -1,0 +1,11 @@
+1.frequency.cpp
+2.frequency2.cpp
+3.frquencyNumber.cpp
+4.Insert.cpp
+5.MajorityElement.cpp
+6.MissingNumber.cpp
+7.OccurringOddNumber.cpp
+8.Terget.cpp
+9.TwoSorted.cpp
+10.
+??Next==>??

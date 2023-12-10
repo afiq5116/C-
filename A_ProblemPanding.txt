@@ -1,0 +1,6 @@
+1.Maximum sum such that no two elements are adjacent (Stickler Thief)
+2.Find the smallest and second smallest elements in an array
+3.Check for Majority Element in a sorted array
+4.Maximum and minimum of an array using minimum number of comparisons
+5.Segregate 0s and 1s in an array
+??Next==>??
